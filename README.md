@@ -47,14 +47,3 @@ Currently, I’m a **Front-End Staff** and **Assistant Laboratory Designer** at 
 
 ---
 
-## 🐍 Contribution Snake
-<!-- Light mode -->
-![snake gif](https://raw.githubusercontent.com/luthfimirza2004/luthfimirza2004/output/snake.svg#gh-light-mode-only)
-<!-- Dark mode -->
-![snake gif](https://raw.githubusercontent.com/luthfimirza2004/luthfimirza2004/output/snake-dark.svg#gh-dark-mode-only)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=LuthfiMirza&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
