@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hi there! I'm **Luthfi Mirza**, a **Software Engineer** and **Full-Stack Developer** passionate about crafting clean, scalable, and user-centered applications.<br>
-Currently, I’m a **Front-End Staff** and **Assistant Laboratory Designer** at **Gunadarma University Computing Center (GUCC)** — where I blend creativity and technology to build impactful digital experiences.<br><br>
+Currently, I’m a **Front-End Staff** and **Assistant Laboratory Designer** at **Gunadarma University Computing Center (GUCC)** — where I blend creativity and technology to build impactful digital esxperiences.<br><br>
 🎓 **Gunadarma University**<br>
 📍 **Depok, West Java, Indonesia**
 
