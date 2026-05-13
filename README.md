@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hi there! I'm **Luthfi Mirza Darsono**, a **Software Engineer** and **Full-Stack Developer** passionate about crafting clean, scalable, and user-centered applications.<br>
-Currently, I’m a **Front-End Staff** and **Assistant Laboratory Designer** at **Gunadarma University Computing Center (GUCC)** — where I blend creativity and technology to build impactful digital experiences.<br><br>
+Currently, I'm a **Front-End Staff** and **Assistant Laboratory Designer** at **Gunadarma University Computing Center (GUCC)** — where I blend creativity and technology to build impactful digital experiences.<br><br>
 🎓 **Gunadarma University**<br>
 📍 **Depok, Jawa Barat, Indonesia**
 
@@ -11,6 +11,25 @@ Currently, I’m a **Front-End Staff** and **Assistant Laboratory Designer** at 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luthfi-mirza-darsono-675663242/) 
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@codingboy140) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:luthfimirza2004@gmail.com) 
+
+---
+
+## 🤖 ML & AI Focus:
+- 🎯 **Recommendation Systems** — Hybrid (Collaborative Filtering + Content-Based), cold-start handling, catalog-scale data
+- 🗣️ **NLP & Speech Processing** — Whisper ASR, NLP scoring, sentiment analysis
+- ⚙️ **Model Serving** — FastAPI, RESTful API design, end-to-end ML pipeline
+- 📊 **Evaluation Metrics** — Precision@K, Recall@K, nDCG, RMSE, A/B testing mindset
+- 🔧 **Data Engineering** — Pandas, SQL, synthetic data generation, feature engineering
+
+---
+
+## 🚀 Featured AI/ML Projects:
+
+| Project | Description | Tech |
+|---|---|---|
+| 🎵 [noice-audio-recommendation-system](https://github.com/LuthfiMirza/noice-audio-recommendation-system) | Hybrid audio recommendation engine using content metadata & synthetic listening events. Evaluated with Precision, Recall & nDCG. | Python, Pandas, FastAPI |
+| 🎤 [AI-Interview-Evaluation-System](https://github.com/LuthfiMirza/AI-Interview-Evaluation-System-End-to-End-) | Full-stack AI interview analysis: speech-to-text (Whisper), NLP scoring, PostgreSQL, Next.js dashboard & Streamlit. | Python, FastAPI, Whisper, Next.js |
+| 📈 [tradescope](https://github.com/LuthfiMirza/tradescope) | Crypto futures signal dashboard with technical analysis, rule-based signal scoring & AI-assisted market review. | JavaScript |
 
 ---
 
@@ -32,6 +51,10 @@ Currently, I’m a **Front-End Staff** and **Assistant Laboratory Designer** at 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
@@ -46,4 +69,3 @@ Currently, I’m a **Front-End Staff** and **Assistant Laboratory Designer** at 
 ![](https://github-profile-trophy.vercel.app/?username=LuthfiMirza&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ---
-
