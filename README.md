@@ -85,14 +85,8 @@ luthfi = {
 
 <div align="center">
 
-<!-- 
-  ⚠️ IMPORTANT: Replace YOUR_VERCEL_URL with your own deployed instance.
-  Deploy: https://github.com/anuraghazra/github-readme-stats
-  This prevents rate limiting on the public instance.
--->
-
-<img src="https://YOUR_VERCEL_URL.vercel.app/api?username=LuthfiMirza&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="165" alt="GitHub Stats"/>
-<img src="https://YOUR_VERCEL_URL.vercel.app/api/top-langs/?username=LuthfiMirza&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" height="165" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=LuthfiMirza&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="165" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuthfiMirza&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" height="165" alt="Top Languages"/>
 
 </div>
 
@@ -114,19 +108,21 @@ luthfi = {
 
 ---
 
-## 🐍 Contribution Graph
+## 📈 Contribution Graph
 
 <div align="center">
 
-<!-- 
-  Setup snake animation via GitHub Actions:
-  https://github.com/Platane/snk
-  Follow the guide to auto-generate this on every push.
--->
-
-![Snake animation](https://raw.githubusercontent.com/LuthfiMirza/LuthfiMirza/output/github-contribution-grid-snake-dark.svg)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LuthfiMirza&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
+
+<!--
+  OPTIONAL — Snake animation (lebih keren tapi perlu setup GitHub Actions):
+  1. Buat file .github/workflows/snake.yml di repo profile kamu
+  2. Isi dengan panduan: https://github.com/Platane/snk#usage
+  3. Setelah Actions jalan, uncomment baris ini & hapus activity graph di atas:
+  ![Snake animation](https://raw.githubusercontent.com/LuthfiMirza/LuthfiMirza/output/github-contribution-grid-snake-dark.svg)
+-->
 
 ---
 
