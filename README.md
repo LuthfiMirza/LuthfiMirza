@@ -21,7 +21,7 @@ luthfi = {
     "name":       "Luthfi Mirza Darsono",
     "role":       ["Software Engineer", "Full-Stack Developer"],
     "workplace":  "Gunadarma University Computing Center (GUCC)",
-    "position":   ["Front-End Staff", "Assistant Laboratory Designer"],
+    "position":   ["Front-End Staff",],
     "education":  "Gunadarma University — Depok, Jawa Barat 🇮🇩",
     "focus":      ["Recommendation Systems", "NLP & Speech AI", "ML Pipeline Design"],
     "currently":  "Building scalable AI-powered apps & clean UIs",
