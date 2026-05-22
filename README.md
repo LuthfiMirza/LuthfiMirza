@@ -92,7 +92,7 @@ luthfi = {
 
 <div align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=LuthfiMirza&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=LuthfiMirza&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
