@@ -73,10 +73,13 @@ luthfi = {
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,nodejs,laravel,tailwind,fastapi,figma)](https://skillicons.dev)
 
 **Data & ML**
-
-[![My Skills](https://skillicons.dev/icons?i=postgresql,sklearn)](https://skillicons.dev)
-`Pandas` `scikit-learn`
-
+ 
+[![My Skills](https://skillicons.dev/icons?i=postgresql)](https://skillicons.dev)
+ 
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+ 
 </div>
 
 ---
