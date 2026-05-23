@@ -31,15 +31,15 @@ luthfi = {
 ---
 
 ## 🚀 Featured Projects
-
+ 
 <div align="center">
-
 | Project | Description | Tech Stack |
 |:---:|:---|:---:|
 | 🎵 **[noice-audio-recommendation-system](https://github.com/LuthfiMirza/noice-audio-recommendation-system)** | Hybrid audio recommendation engine — content metadata + synthetic listening events. Evaluated with Precision@K, Recall@K & nDCG | `Python` `Pandas` `FastAPI` `scikit-learn` |
 | 🎤 **[AI-Interview-Evaluation-System](https://github.com/LuthfiMirza/AI-Interview-Evaluation-System-End-to-End-)** | End-to-end AI interview analysis — Whisper ASR, NLP scoring, PostgreSQL backend + Next.js dashboard & Streamlit | `Python` `FastAPI` `Whisper` `Next.js` `PostgreSQL` |
 | 📈 **[tradescope](https://github.com/LuthfiMirza/tradescope)** | Crypto futures signal dashboard with technical analysis, rule-based signal scoring & AI-assisted market review | `JavaScript` |
-
+| 📰 **[Implementasi-Analisis-Sentimen-BeritaSaham](https://github.com/LuthfiMirza/Implementasi-Analisis-Sentimen-BeritaSaham)** | Laravel-based IDX stock sentiment analysis dashboard — news aggregation, technical ranking, prediction evaluation, DSS backtesting & trade journal. Undergraduate thesis project | `Laravel` `PHP` `NLP` `MySQL` |
+ 
 </div>
 
 ---
