@@ -21,7 +21,7 @@ luthfi = {
     "name":       "Luthfi Mirza Darsono",
     "role":       ["Software Engineer", "Full-Stack Developer"],
     "workplace":  "Gunadarma University Computing Center (GUCC)",
-    "position":   ["Front-End Staff",],
+    "position":   ["Front-End Staff", "Assistant Laboratory Designer"],
     "education":  "Gunadarma University — Depok, Jawa Barat 🇮🇩",
     "focus":      ["Recommendation Systems", "NLP & Speech AI", "ML Pipeline Design"],
     "currently":  "Building scalable AI-powered apps & clean UIs",
@@ -31,7 +31,7 @@ luthfi = {
 ---
 
 ## 🚀 Featured Projects
- 
+
 | Project | Description | Tech Stack |
 |:---|:---|:---|
 | 🎵 **[noice-audio-recommendation-system](https://github.com/LuthfiMirza/noice-audio-recommendation-system)** | Hybrid audio recommendation engine — content metadata + synthetic listening events. Evaluated with Precision@K, Recall@K & nDCG | `Python` `Pandas` `FastAPI` `scikit-learn` |
@@ -70,13 +70,13 @@ luthfi = {
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,nodejs,laravel,tailwind,fastapi,figma)](https://skillicons.dev)
 
 **Data & ML**
- 
+
 [![My Skills](https://skillicons.dev/icons?i=postgresql)](https://skillicons.dev)
- 
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
- 
+
 </div>
 
 ---
@@ -102,7 +102,7 @@ luthfi = {
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=LuthfiMirza&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=7)
+![Trophies](https://github-profile-trophy-liard-delta.vercel.app/?username=LuthfiMirza&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=7)
 
 </div>
 
