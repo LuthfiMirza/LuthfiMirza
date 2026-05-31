@@ -102,7 +102,7 @@ luthfi = {
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy-liard-delta.vercel.app/?username=LuthfiMirza&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=7)
+[![trophy](https://github-profile-trophy.vercel.app/?username=LuthfiMirza&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
