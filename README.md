@@ -98,13 +98,13 @@ luthfi = {
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏅 GitHub Achievements
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=LuthfiMirza&theme=tokyonight&no-frame=true&row=1&column=7" />
-
-</div>
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="120"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="120"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="120"/>
+</p>
 
 ---
 
