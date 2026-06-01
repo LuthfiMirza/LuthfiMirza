@@ -5,7 +5,7 @@
 
   <!-- Profile views & socials -->
   [![Profile Views](https://komarev.com/ghpvc/?username=LuthfiMirza&color=7F77DD&style=flat-square&label=Profile+Views)](https://github.com/LuthfiMirza)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luthfi-mirza-darsono-675663242/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luthfimirzadarsono/)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/luthfimirza_)
   [![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://tiktok.com/@codingboy140)
   [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:luthfimirza2004@gmail.com)
