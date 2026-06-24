@@ -107,23 +107,7 @@ luthfi = {
 
 ---
 
-## 📈 Contribution Graph
 
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LuthfiMirza&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<!--
-  OPTIONAL — Snake animation (lebih keren tapi perlu setup GitHub Actions):
-  1. Buat file .github/workflows/snake.yml di repo profile kamu
-  2. Isi dengan panduan: https://github.com/Platane/snk#usage
-  3. Setelah Actions jalan, uncomment baris ini & hapus activity graph di atas:
-  ![Snake animation](https://raw.githubusercontent.com/LuthfiMirza/LuthfiMirza/output/github-contribution-grid-snake-dark.svg)
--->
-
----
 
 ## 🐍 Contribution Snake
 
